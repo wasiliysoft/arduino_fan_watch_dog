@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.configuration.runtimes": [
+         {
+          "name": "JavaSE-11",
+          "path": "C:\\Program Files\\Eclipse Foundation\\jdk-11.0.12.7-hotspot\\",
+          "default": true
+        }
+      ],
+      "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+      ]
+}
